@@ -1,0 +1,11 @@
+{
+  "country": "Argentina",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "image": "https://img.a.transfermarkt.technology/portrait/big/28003-1694590254.jpg?lm=1",
+      "description": "Professional Footballer"
+    }
+  ]
+}
