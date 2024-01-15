@@ -1,0 +1,11 @@
+{
+  "country": "Belgium",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Jean-Claude Van Damme",
+      "image": "https://www.themoviedb.org/t/p/w500/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg",
+      "description": "Martial artist and Actor"
+    }
+  ]
+}
