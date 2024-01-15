@@ -1,0 +1,11 @@
+{
+  "country": "United States",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Michael Jackson",
+      "image": "https://sm.ign.com/t/ign_pl/screenshot/default/michael-jackson-1996-red-u-billboard-1548_w21r.1280.jpg",
+      "description": "Singer and dancer"
+    }
+  ]
+}
