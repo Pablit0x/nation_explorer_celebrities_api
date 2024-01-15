@@ -1,0 +1,11 @@
+{
+  "country": "Algeria",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Albert Camus",
+      "image": "https://polecamczytac.pl/wp-content/uploads/2018/03/5.jpg",
+      "description": "Nobel Prize-winning Algerian-French philosopher, author, and journalist known for his influential works, including 'The Stranger' and 'The Plague.'"
+    }
+  ]
+}
