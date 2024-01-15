@@ -1,0 +1,11 @@
+{
+  "country": "Australia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Hugh Jackman",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDExMzIzNjk3Nl5BMl5BanBnXkFtZTcwOTE4NDU5OA@@._V1_.jpg",
+      "description": "Australian actor, singer, and producer. Hugh Jackman is best known for his role as Wolverine in the 'X-Men' film series and has received acclaim for his work in various stage and film productions, including 'The Greatest Showman.'"
+    }
+  ]
+}
