@@ -1,0 +1,11 @@
+{
+  "country": "Finland",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Kimi Räikkönen",
+      "image": "https://www.f1-fansite.com/wp-content/uploads/2019/04/Kimi-Raikkonen-info-and-stats.jpg",
+      "description": "F1 Driver"
+    }
+  ]
+}
