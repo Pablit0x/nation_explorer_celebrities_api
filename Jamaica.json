@@ -1,0 +1,11 @@
+{
+  "country": "Jamaica",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Bob Marley",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/2/5/1423140827327/Bob-Marley-in-1979-before-009.jpg?width=620&quality=85&auto=format&fit=max&s=85aa3d82cd2a026587cdec22c2ac7058",
+      "description": "Reggae Singer-Songwriter, Musician, and Activist"
+    }
+  ]
+}
