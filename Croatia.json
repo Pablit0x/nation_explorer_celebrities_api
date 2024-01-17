@@ -1,0 +1,11 @@
+{
+  "country": "Croatia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Luka Modrić",
+      "image": "https://www.onthisday.com/images/people/luka-modric.jpg?w=360",
+      "description": "Professional Footballer, Midfielder for Real Madrid and the Croatia national team"
+    }
+  ]
+}
