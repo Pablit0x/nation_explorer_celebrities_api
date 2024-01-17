@@ -1,0 +1,11 @@
+{
+  "country": "Puerto Rico",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Luis Fonsi",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-888179100_luis-fonsi.jpg",
+      "description": "Singer, Songwriter, and Musician, known for the hit song 'Despacito'"
+    }
+  ]
+}
