@@ -1,0 +1,11 @@
+{
+  "country": "Philippines",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Manny Pacquiao",
+      "image": "https://static01.nyt.com/images/2012/12/08/sports/BOXING/BOXING-superJumbo.jpg",
+      "description": "Professional Boxer, Senator, and Former World Champion in Multiple Weight Classes"
+    }
+  ]
+}
