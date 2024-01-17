@@ -1,0 +1,11 @@
+{
+  "country": "Uruguay",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Luis Suárez",
+      "image": "https://img.a.transfermarkt.technology/portrait/big/44352-1668156555.jpg?lm=1",
+      "description": "Professional Footballer, known for his goal-scoring prowess and versatility"
+    }
+  ]
+}
