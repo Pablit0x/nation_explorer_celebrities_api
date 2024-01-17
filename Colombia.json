@@ -1,0 +1,11 @@
+{
+  "country": "Colombia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Shakira",
+      "image": "https://c4.wallpaperflare.com/wallpaper/883/922/568/shakira-celebrity-face-women-wallpaper-preview.jpg",
+      "description": "Singer, Songwriter, and Record Producer, one of the world's best-selling music artists"
+    }
+  ]
+}
