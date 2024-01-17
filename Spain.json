@@ -1,0 +1,11 @@
+{
+  "country": "Spain",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Pablo Picasso",
+      "image": "https://cdn.britannica.com/52/134252-050-645431E5/Pablo-Picasso-1950.jpg",
+      "description": "Painter, Sculptor, Printmaker, Ceramicist, and Stage Designer, one of the most influential artists of the 20th century"
+    }
+  ]
+}
