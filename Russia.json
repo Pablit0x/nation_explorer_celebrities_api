@@ -1,0 +1,11 @@
+{
+  "country": "Russia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Vladimir Putin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vladimir_Putin_on_8_March_2021_%28cropped%29.jpg",
+      "description": "President of Russia, Former Prime Minister, and Former KGB Officer"
+    }
+  ]
+}
