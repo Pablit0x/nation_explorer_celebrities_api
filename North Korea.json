@@ -1,0 +1,11 @@
+{
+  "country": "North Korea",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Kim Jong Un",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kim_Jong-un_April_2019_%28cropped%29.jpg/800px-Kim_Jong-un_April_2019_%28cropped%29.jpg",
+      "description": "Supreme Leader of North Korea"
+    }
+  ]
+}
