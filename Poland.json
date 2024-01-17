@@ -1,0 +1,11 @@
+{
+  "country": "Poland",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "John Paul II",
+      "image": "https://static.wikia.nocookie.net/chrzescijanstwopedia/images/a/aa/JPII.jpg/revision/latest?cb=20141209173501&path-prefix=pl",
+      "description": "Pope"
+    }
+  ]
+}
