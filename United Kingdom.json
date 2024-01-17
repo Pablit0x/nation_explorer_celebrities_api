@@ -1,0 +1,11 @@
+{
+  "country": "United Kingdom",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Queen Elizabeth II",
+      "image": "https://cdn.britannica.com/06/235406-050-AB7DE276/Queen-Elizabeth-II-Buckingham-Palace-Platinum-Jubilee-London-England-June-5-2022.jpg",
+      "description": "Monarch, Longest-Reigning Current Head of State, Queen of the United Kingdom and other Commonwealth realms"
+    }
+  ]
+}
