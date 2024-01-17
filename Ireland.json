@@ -1,0 +1,11 @@
+{
+  "country": "Ireland",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Conor McGregor",
+      "image": "https://freight.cargo.site/t/original/i/1c0e64cdfe55efa7d681be8d9416dd569538841ef78c3ea960220b4cee40e053/MS_McGregor_Conor_CloseUp.jpg",
+      "description": "Professional Mixed Martial Artist and Boxer, Former UFC Featherweight and Lightweight Champion"
+    }
+  ]
+}
