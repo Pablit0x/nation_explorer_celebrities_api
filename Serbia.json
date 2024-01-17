@@ -1,0 +1,11 @@
+{
+  "country": "Serbia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Nikola Tesla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/800px-Tesla_circa_1890.jpeg",
+      "description": "Inventor, Electrical Engineer, Mechanical Engineer, and Futurist"
+    }
+  ]
+}
