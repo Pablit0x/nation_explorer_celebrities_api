@@ -1,0 +1,11 @@
+{
+  "country": "Ukraine",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Volodymyr Zelenskyy",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a0eb2f1db7fd82e21ba55afad1d74a4e?impolicy=wcms_crop_resize&cropH=1365&cropW=2048&xPos=0&yPos=0&width=862&height=575",
+      "description": "President of Ukraine, Comedian, and Actor"
+    }
+  ]
+}
