@@ -1,0 +1,11 @@
+{
+  "country": "Czechia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Franz Kafka",
+      "image": "https://www.onthisday.com/images/people/franz-kafka.jpg?w=360",
+      "description": "Novelist and Short Story Writer, one of the most significant figures in existentialist literature"
+    }
+  ]
+}
