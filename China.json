@@ -1,0 +1,11 @@
+{
+  "country": "China",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Bruce Lee",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73663_v9_bb.jpg",
+      "description": "Martial Artist, Actor, Film Director, Producer, Screenwriter, and Philosopher"
+    }
+  ]
+}
