@@ -1,0 +1,11 @@
+{
+  "country": "Switzerland",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Roger Federer",
+      "image": "https://www.rogerfederer.com/templates/protostar/img/fed_prof.jpg",
+      "description": "Professional Tennis Player, widely considered one of the greatest tennis players of all time"
+    }
+  ]
+}
