@@ -1,0 +1,11 @@
+{
+  "country": "Italy",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Leonardo da Vinci",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReWz8z40w21XVnqzQeSvu8eMi-d5D10u2YUDgDzRQeEvr584vD",
+      "description": "Polymath, Painter, Sculptor, Architect, Scientist, Inventor, Writer"
+    }
+  ]
+}
