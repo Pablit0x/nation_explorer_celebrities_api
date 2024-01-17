@@ -1,0 +1,11 @@
+{
+  "country": "Hungary",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "George Soros",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/George_Soros_-_Festival_Economia_2018_1.jpg",
+      "description": "Investor, Philanthropist, and Political Activist"
+    }
+  ]
+}
