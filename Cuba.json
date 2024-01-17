@@ -1,0 +1,11 @@
+{
+  "country": "Cuba",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Fidel Castro",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fidel_Castro_1950s.jpg", 
+      "description": "Revolutionary and Political Leader, Former Prime Minister and President of Cuba"
+    }
+  ]
+}
