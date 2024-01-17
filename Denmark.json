@@ -1,0 +1,11 @@
+{
+  "country": "Denmark",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Hans Christian Andersen",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-514702588.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "description": "Author and Poet, best known for his fairy tales, including 'The Little Mermaid' and 'The Ugly Duckling'"
+    }
+  ]
+}
