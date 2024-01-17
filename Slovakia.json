@@ -1,0 +1,11 @@
+{
+  "country": "Slovakia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "David Dobrik",
+      "image": "https://pbs.twimg.com/profile_images/1223706175910211584/tmu8d9fA_400x400.jpg",
+      "description": "YouTuber, Social Media Influencer, and Entrepreneur"
+    }
+  ]
+}
