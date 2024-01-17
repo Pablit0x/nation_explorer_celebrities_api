@@ -1,0 +1,11 @@
+{
+  "country": "Trinidad and Tobago",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Nicki Minaj",
+      "image": "https://media.npr.org/assets/img/2023/09/01/minaj_custom-1f4474b5875bbfb4e550911452ea477b641e238d.jpg",
+      "description": "Rapper, Singer, and Songwriter, one of the most successful and influential female artists in the rap industry"
+    }
+  ]
+}
