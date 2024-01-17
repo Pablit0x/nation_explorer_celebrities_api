@@ -1,0 +1,11 @@
+{
+  "country": "Barbados",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Rihanna",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2023/02/rihanna-timeline.jpg?w=1581&h=1054&crop=1",
+      "description": "Singer, Songwriter, Actress, and Businesswoman, one of the world's best-selling music artists"
+    }
+  ]
+}
