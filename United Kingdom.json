@@ -3,9 +3,9 @@
   "celebrities": [
     {
       "id": 1,
-      "name": "Queen Elizabeth II",
-      "image": "https://cdn.britannica.com/06/235406-050-AB7DE276/Queen-Elizabeth-II-Buckingham-Palace-Platinum-Jubilee-London-England-June-5-2022.jpg",
-      "description": "Monarch, Longest-Reigning Current Head of State, Queen of the United Kingdom and other Commonwealth realms"
+      "name": "Ed Sheeran",
+      "image": "https://m.media-amazon.com/images/M/MV5BODI4NTkxOTkxMV5BMl5BanBnXkFtZTgwMzE0MDEzMTE@._V1_.jpg",
+      "description": "Singer, Songwriter, and Musician, known for hits like 'Shape of You' and 'Thinking Out Loud'"
     }
   ]
 }
