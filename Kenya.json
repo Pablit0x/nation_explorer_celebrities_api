@@ -1,0 +1,11 @@
+{
+  "country": "Kenya",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Eliud Kipchoge",
+      "image": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/primary/sofaf1eebviulpdlbw9y",
+      "description": "Long-distance Runner, Olympic Champion, and World Record Holder in the Marathon"
+    }
+  ]
+}
