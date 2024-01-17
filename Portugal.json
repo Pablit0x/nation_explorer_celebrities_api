@@ -1,0 +1,11 @@
+{
+  "country": "Portugal",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Cristiano Ronaldo",
+      "image": "https://cdn.britannica.com/73/234573-050-8EE03E16/Cristiano-Ronaldo-ceremony-rename-airport-Santa-Cruz-Madeira-Portugal-March-29-2017.jpg",
+      "description": "Professional Footballer, considered one of the greatest players of all time"
+    }
+  ]
+}
