@@ -1,0 +1,11 @@
+{
+  "country": "Japan",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Naomi Osaka",
+      "image": "https://e0.365dm.com/21/06/1600x900/skysports-naomi-osaka-tennis_5402134.jpg?20210601180747",
+      "description": "Professional Tennis Player, Multiple Grand Slam Champion"
+    }
+  ]
+}
