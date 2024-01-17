@@ -1,0 +1,11 @@
+{
+  "country": "Norway",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Erling Haaland",
+      "image": "https://img.a.transfermarkt.technology/portrait/big/418560-1694590614.jpg?lm=1",
+      "description": "Professional Footballer"
+    }
+  ]
+}
