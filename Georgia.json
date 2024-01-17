@@ -1,0 +1,11 @@
+{
+  "country": "Georgia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Joseph Stalin",
+      "image": "https://cdn.britannica.com/50/221250-138-7BA5F519/who-was-Joseph-Stalin.jpg?w=800&h=450&c=crop",
+      "description": "Soviet Statesman and Politician, Leader of the Soviet Union from the mid-1920s until his death in 1953"
+    }
+  ]
+}
