@@ -1,0 +1,11 @@
+{
+  "country": "Mongolia",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Genghis Khan",
+      "image": "https://cdn.britannica.com/73/121673-050-4FE5679B/Genghis-Khan-ink-colour-silk-Taipei-Taiwan.jpg",
+      "description": "Founder and Great Khan of the Mongol Empire, one of the most successful military leaders in history"
+    }
+  ]
+}
