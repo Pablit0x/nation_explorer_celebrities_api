@@ -1,0 +1,11 @@
+{
+  "country": "Germany",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Ludwig van Beethoven",
+      "image": "blank",
+      "description": "Composer and Pianist, one of the most influential figures in the history of classical music"
+    }
+  ]
+}
