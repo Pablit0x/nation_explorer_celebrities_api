@@ -1,0 +1,11 @@
+{
+  "country": "Hong Kong",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Jackie Chan",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4MDM0MDUzM15BMl5BanBnXkFtZTcwOTI4MzU1Mw@@._V1_FMjpg_UX1000_.jpg",
+      "description": "Actor, Martial Artist, Film Director, Producer, Stuntman, and Singer"
+    }
+  ]
+}
