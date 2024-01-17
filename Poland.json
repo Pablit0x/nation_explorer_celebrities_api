@@ -3,9 +3,9 @@
   "celebrities": [
     {
       "id": 1,
-      "name": "John Paul II",
-      "image": "https://static.wikia.nocookie.net/chrzescijanstwopedia/images/a/aa/JPII.jpg/revision/latest?cb=20141209173501&path-prefix=pl",
-      "description": "Pope"
+      "name": "Robert Lewandowski",
+      "image": "https://img.a.transfermarkt.technology/portrait/big/38253-1701118759.jpg?lm=1",
+      "description": "Professional Football Player"
     }
   ]
 }
