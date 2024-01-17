@@ -1,0 +1,11 @@
+{
+  "country": "Kosovo",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Rita Ora",
+      "image": "https://i.guim.co.uk/img/media/f9efce9aa6c202723a2629a4dc4ec3f4174f003c/1069_92_949_569/master/949.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5a045a6fb3faf2b2b8856bf8bc4ef632",
+      "description": "Singer, Songwriter, and Actress"
+    }
+  ]
+}
