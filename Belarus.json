@@ -1,0 +1,11 @@
+{
+  "country": "Belarus",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Alexander Lukashenko",
+      "image": "https://www.onthisday.com/images/people/alexander-lukashenko.jpg?w=360",
+      "description": "President of Belarus, Politician"
+    }
+  ]
+}
