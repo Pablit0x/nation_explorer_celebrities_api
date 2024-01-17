@@ -1,0 +1,11 @@
+{
+  "country": "France",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Napoleon Bonaparte",
+      "image": "https://blog.napoleon-cologne.fr/wp-content/uploads/2021/04/bicentenaire-napoleon-bonaparte-mort-1024x683.jpg",
+      "description": "Military and Political Leader, Emperor of the French, one of the most influential figures in European history"
+    }
+  ]
+}
