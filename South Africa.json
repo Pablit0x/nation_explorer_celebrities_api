@@ -1,0 +1,11 @@
+{
+  "country": "South Africa",
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Elon Musk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/640px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+      "description": "Entrepreneur, Business Magnate, and CEO of SpaceX and Tesla, Inc."
+    }
+  ]
+}
